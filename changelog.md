@@ -1,3 +1,8 @@
+## [v0.9.7] - 2026-05-02
+
+- Wave 19 release: TypeExpr diagnostic integration design, firefly-iii fresh-extract (25 paginated DTOs), Azure OpenAI discriminator corpus (100% round-trip)
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
